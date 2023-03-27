@@ -4,10 +4,10 @@ import java.util.ArrayList;
 
 public class Board {
 
-    private ArrayList<ArrayList<Piece>> board;
+    private ArrayList<ArrayList<Piece>> Board;
 
     public Board(){
-        this.board = new ArrayList<ArrayList<Piece>>();
+        this.Board = new ArrayList<ArrayList<Piece>>();
     }
 
 }
